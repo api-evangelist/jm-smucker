@@ -1,7 +1,12 @@
 aid: jm-smucker
-url: https://raw.githubusercontent.com/api-evangelist/jm-smucker/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/jm-smucker/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.jm-smucker.com
+description: >-
+  The J.M. Smucker Company is a leading marketer and manufacturer of consumer food
+  and beverage products and pet food and pet snacks in North America, with brands
+  including Smucker's, Folgers, Jif, Milk-Bone, and Meow Mix.
