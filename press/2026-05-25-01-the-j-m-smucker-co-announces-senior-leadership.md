@@ -1,7 +1,9 @@
 ---
 title: The J.M. Smucker Co. Announces Senior Leadership ...
 url: https://www.prnewswire.com/news-releases/the-jm-smucker-co-announces-senior-leadership-updates-to-drive-continued-growth-and-execution-302683731.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"J.M. Smucker" press release artificial intelligence'
 position: 1
 source: serpapi-google

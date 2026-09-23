@@ -1,7 +1,9 @@
 ---
 title: Did Leadership Overhaul and AI Focus Just Shift J. M. ...
 url: https://finance.yahoo.com/news/did-leadership-overhaul-ai-focus-151024923.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"J.M. Smucker" press release artificial intelligence'
 position: 3
 source: serpapi-google
